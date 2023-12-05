@@ -48,6 +48,7 @@ body {
 
 .stand-alone {
   padding: 1.5rem;
+  border-radius: 20px;
   /* margin-top: 0.5rem; */
   box-shadow: 4px 20px 20px 0px rgba(0, 0, 0, 0.75);
 }
@@ -119,7 +120,7 @@ body {
 
   .section-two {
     flex-basis: 25%;
-    background-color: #fff;
+    background-color: transparent;
     margin-left: 0.7rem;
   }
 
@@ -195,6 +196,7 @@ body {
 
   .stand-alone {
     padding: 1.5rem;
+    border-radius: 20px;
     /* margin-top: 0.5rem; */
     box-shadow: 4px 50px 20px 0px rgba(0, 0, 0, 0.75);
   }
@@ -273,7 +275,7 @@ body {
 
   .section-two {
     flex-basis: 25%;
-    background-color: #fff;
+    background-color: transparent;
     margin-left: 0.7rem;
   }
 
