@@ -13,7 +13,6 @@ body {
 .bottom .right,
 .section-two {
   margin-bottom: 1.2rem;
-  /* border-radius: 20px; */
 }
 
 .candidate {
@@ -28,14 +27,8 @@ body {
 }
 
 .candidate img {
-  /* border-radius: 50%; */
   width: 40px;
   height: fit-content;
-}
-
-.comma {
-  /* width: 25% !important;
-  height: fit-content; */
 }
 
 .left,
@@ -48,7 +41,7 @@ body {
 
 .stand-alone {
   padding: 1.5rem;
-  /* margin-top: 0.5rem; */
+
   box-shadow: 4px 20px 20px 0px rgba(0, 0, 0, 0.75);
 }
 
@@ -158,7 +151,6 @@ body {
   .bottom .right,
   .section-two {
     margin-bottom: 1.2rem;
-    /* border-radius: 20px; */
   }
 
   .candidate {
@@ -173,14 +165,8 @@ body {
   }
 
   .candidate img {
-    /* border-radius: 50%; */
     width: 40px;
     height: fit-content;
-  }
-
-  .comma {
-    /* width: 25%;
-    height: fit-content; */
   }
 
   .left,
@@ -193,7 +179,7 @@ body {
 
   .stand-alone {
     padding: 1.5rem;
-    /* margin-top: 0.5rem; */
+
     box-shadow: 4px 50px 20px 0px rgba(0, 0, 0, 0.75);
   }
 
@@ -243,10 +229,6 @@ body {
     margin-right: 0.7rem;
   }
 
-  .comma {
-    /* width: 35%; */
-  }
-
   .bottom .right {
     margin-left: 0.7rem;
   }
@@ -284,6 +266,5 @@ body {
 
   .stand-alone {
     height: fit-content;
-    /* margin-top: 0.5rem; */
   }
 }
